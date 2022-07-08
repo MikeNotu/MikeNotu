@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Michael Bateman, I'm a Software Engineer that's currently working as a Front-End Developer.
+My name is Michael Bateman, I'm a Software Engineer that's currently working using React & React Native.
 
  <a href="https://github.com/MikeNotu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MikeNotu&count_private=true&hide=contribs,issues&show_icons=true&theme=tokyonight&count_private=true" />
