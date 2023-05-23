@@ -8,4 +8,8 @@ https://mikenotu.github.io/front-portfolio/
 <br/>
 
 <p align="left"> <a href="https://github.com/MikeNotu"><img src="https://github-profile-trophy.vercel.app/?username=MikeNotu&theme=darkhub&rank=SSS,SS,S,AAA,AA,A,B&margin-w=15&margin-h=15" alt="mikenotu" /></a> </p>
-https://github-readme-stats-no-expiration.vercel.app/api/top-langs/?username=MikeNotu&langs_count=7&layout=compact&theme=cobalt
+
+
+[![Top Langs](https://github-readme-stats-no-expiration.vercel.app/api/top-langs/?username=mikenotu&langs_count=7&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats-no-expiration.vercel.app/api?username=mikenotu&show_icons=true&theme=cobalt)
